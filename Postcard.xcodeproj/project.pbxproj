@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FA740DDB1A0C18FB003C9E7D /* GoldenGateBridge-001.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FA740DDA1A0C18FB003C9E7D /* GoldenGateBridge-001.jpg */; };
+		FAB826511A0B70E400956739 /* download.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = FAB826501A0B70E400956739 /* download.jpeg */; };
 		FADF37B91A0B64510019EEC2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FADF37B81A0B64510019EEC2 /* AppDelegate.swift */; };
 		FADF37BB1A0B64510019EEC2 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FADF37BA1A0B64510019EEC2 /* ViewController.swift */; };
 		FADF37BE1A0B64510019EEC2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FADF37BC1A0B64510019EEC2 /* Main.storyboard */; };
@@ -26,6 +28,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		FA740DDA1A0C18FB003C9E7D /* GoldenGateBridge-001.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "GoldenGateBridge-001.jpg"; sourceTree = "<group>"; };
+		FAB826501A0B70E400956739 /* download.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = download.jpeg; sourceTree = "<group>"; };
 		FADF37B31A0B64510019EEC2 /* Postcard.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Postcard.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FADF37B71A0B64510019EEC2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FADF37B81A0B64510019EEC2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -90,6 +94,8 @@
 		FADF37B61A0B64510019EEC2 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				FA740DDA1A0C18FB003C9E7D /* GoldenGateBridge-001.jpg */,
+				FAB826501A0B70E400956739 /* download.jpeg */,
 				FADF37B71A0B64510019EEC2 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -194,7 +200,9 @@
 			files = (
 				FADF37BE1A0B64510019EEC2 /* Main.storyboard in Resources */,
 				FADF37C31A0B64510019EEC2 /* LaunchScreen.xib in Resources */,
+				FAB826511A0B70E400956739 /* download.jpeg in Resources */,
 				FADF37C01A0B64510019EEC2 /* Images.xcassets in Resources */,
+				FA740DDB1A0C18FB003C9E7D /* GoldenGateBridge-001.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -407,6 +415,7 @@
 				FADF37D41A0B64510019EEC2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		FADF37D51A0B64510019EEC2 /* Build configuration list for PBXNativeTarget "PostcardTests" */ = {
 			isa = XCConfigurationList;
@@ -415,6 +424,7 @@
 				FADF37D71A0B64510019EEC2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
