@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FA45023D1A10592E00DAC43B /* Dr.-Seuss-Cat-in-the-Hat.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FA45023C1A10592E00DAC43B /* Dr.-Seuss-Cat-in-the-Hat.jpg */; };
 		FA740DDB1A0C18FB003C9E7D /* GoldenGateBridge-001.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FA740DDA1A0C18FB003C9E7D /* GoldenGateBridge-001.jpg */; };
 		FAB826511A0B70E400956739 /* download.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = FAB826501A0B70E400956739 /* download.jpeg */; };
 		FADF37B91A0B64510019EEC2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FADF37B81A0B64510019EEC2 /* AppDelegate.swift */; };
@@ -28,6 +29,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		FA45023C1A10592E00DAC43B /* Dr.-Seuss-Cat-in-the-Hat.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Dr.-Seuss-Cat-in-the-Hat.jpg"; sourceTree = "<group>"; };
 		FA740DDA1A0C18FB003C9E7D /* GoldenGateBridge-001.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "GoldenGateBridge-001.jpg"; sourceTree = "<group>"; };
 		FAB826501A0B70E400956739 /* download.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = download.jpeg; sourceTree = "<group>"; };
 		FADF37B31A0B64510019EEC2 /* Postcard.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Postcard.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -94,6 +96,7 @@
 		FADF37B61A0B64510019EEC2 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				FA45023C1A10592E00DAC43B /* Dr.-Seuss-Cat-in-the-Hat.jpg */,
 				FA740DDA1A0C18FB003C9E7D /* GoldenGateBridge-001.jpg */,
 				FAB826501A0B70E400956739 /* download.jpeg */,
 				FADF37B71A0B64510019EEC2 /* Info.plist */,
@@ -198,6 +201,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FA45023D1A10592E00DAC43B /* Dr.-Seuss-Cat-in-the-Hat.jpg in Resources */,
 				FADF37BE1A0B64510019EEC2 /* Main.storyboard in Resources */,
 				FADF37C31A0B64510019EEC2 /* LaunchScreen.xib in Resources */,
 				FAB826511A0B70E400956739 /* download.jpeg in Resources */,
